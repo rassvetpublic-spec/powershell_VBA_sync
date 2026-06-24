@@ -1,20 +1,20 @@
-﻿# RULES_HUB
+# RULES_HUB
 
-Repo: $Repo
+Repo: rassvetpublic-spec/powershell_VBA_sync
 Проект: PowerShell VBA sync
 
 Этот репозиторий связан с общим хабом правил:
 
-assvetpublic-spec/rassvet-rules-hub
+rassvetpublic-spec/rassvet-rules-hub
 
 ## Общие источники
 
-- assvet-rules-hub/CURRENT/GLOBAL_PROJECT_RULES_CURRENT.md
-- assvet-rules-hub/CURRENT/SOURCE_PRIORITY_RULES_CURRENT.md
-- assvet-rules-hub/CURRENT/GITHUB_WORKFLOW_RULES_CURRENT.md
-- assvet-rules-hub/CURRENT/FILE_WORKFLOW_RULES_CURRENT.md
-- assvet-rules-hub/CURRENT/PROJECT_HANDOFF_RULES_CURRENT.md
-- assvet-rules-hub/SKILLS/SKILLS_REGISTRY_CURRENT.md
+- rassvet-rules-hub/CURRENT/GLOBAL_PROJECT_RULES_CURRENT.md
+- rassvet-rules-hub/CURRENT/SOURCE_PRIORITY_RULES_CURRENT.md
+- rassvet-rules-hub/CURRENT/GITHUB_WORKFLOW_RULES_CURRENT.md
+- rassvet-rules-hub/CURRENT/FILE_WORKFLOW_RULES_CURRENT.md
+- rassvet-rules-hub/CURRENT/PROJECT_HANDOFF_RULES_CURRENT.md
+- rassvet-rules-hub/SKILLS/SKILLS_REGISTRY_CURRENT.md
 
 ## Приоритет
 
